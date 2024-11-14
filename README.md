@@ -52,21 +52,23 @@ const rehanDeSilva = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project 1</h3>
+      <h3 align="center">Pupplates Mobile App</h3>
       <p align="center">
         <a href="https://github.com/rehandesilva21/Puppaltes-Mobile-App" target="_blank">
           <img src="/api/placeholder/400/200" alt="Project 1"/>
         </a>
-        <span align="center">A brief description of your project</span>
+        <span align="center">Pupplates is a mobile application designed to provide a seamless platform for purchasing and managing premium dog products, including healthy dog foods, accessories, and educational content for pet owners. The app prioritizes user satisfaction and ease of use by integrating a catalog of products, personalized services, and an e-shop, all in one convenient space.
+
+</span>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Gallery-Cafe-Web-Application</h3>
       <p align="center">
-        <a href="project-link" target="_blank">
+        <a href="https://github.com/rehandesilva21/Gallery-Cafe-Web-Application" target="_blank">
           <img src="/api/placeholder/400/200" alt="Project 2"/>
         </a>
-        <span align="center">A brief description of your project</span>
+        <span align="center">This is an advanced HTML CSS javascript and PHP based Web application for restaurants and this includes the Admin panel(Backend) and the Customer Side application(Front End)</span>
       </p>
     </td>
   </tr>
