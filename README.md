@@ -54,7 +54,7 @@ const rehanDeSilva = {
     <td width="50%">
       <h3 align="center">Project 1</h3>
       <p align="center">
-        <a href="project-link" target="_blank">
+        <a href="https://github.com/rehandesilva21/Puppaltes-Mobile-App" target="_blank">
           <img src="/api/placeholder/400/200" alt="Project 1"/>
         </a>
         <span align="center">A brief description of your project</span>
