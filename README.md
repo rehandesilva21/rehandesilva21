@@ -1,7 +1,7 @@
 # 👨‍💻 Rehan de Silva
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rehandesilva21&color=blueviolet)](https://github.com/rehandesilva21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Your-LinkedIn-URL](https://www.linkedin.com/in/rehan-de-silva-692678218?originalSubdomain=lk))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rehan-de-silva-692678218?originalSubdomain=lk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=flat&logo=safari)](Your-Portfolio-URL)
 
 ## 🎯 About Me
