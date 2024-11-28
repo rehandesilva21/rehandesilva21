@@ -13,7 +13,7 @@ const rehanDeSilva = {
     education: "Software Engineering @ Cardiff Metropolitan University",
     specializations: [
         "UI/UX Design",
-        "Full Stack Development",
+        "Software Frontend Development",
         "Video Editing",
         "3D Modeling"
     ],
